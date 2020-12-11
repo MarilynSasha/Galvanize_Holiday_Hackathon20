@@ -1,4 +1,4 @@
-# Participated in Galvanize Holiday Hackathon 2020, analyzed Amazon review data
+# Participated in Galvanize Holiday Hackathon 2020, analyzing Amazon review data
 
 # Objective: 
 Pet Shop wants to explore ways to expand customer reach and increase revenue, to eventually include an online marketplace for their business.
